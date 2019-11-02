@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsRPG", "RPGTutorial\FormsRPG.csproj", "{16876A7B-DE91-484B-A342-49E6D5608241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{B0593475-4698-4E16-BD62-F6347570E9B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16876A7B-DE91-484B-A342-49E6D5608241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16876A7B-DE91-484B-A342-49E6D5608241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16876A7B-DE91-484B-A342-49E6D5608241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16876A7B-DE91-484B-A342-49E6D5608241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0593475-4698-4E16-BD62-F6347570E9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0593475-4698-4E16-BD62-F6347570E9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0593475-4698-4E16-BD62-F6347570E9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0593475-4698-4E16-BD62-F6347570E9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAEA20FF-D173-439D-BCBE-FCF1794906BD}
+	EndGlobalSection
+EndGlobal
